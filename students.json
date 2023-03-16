@@ -1,38 +1,19 @@
 {
-    "Ethan": {
-        "student": "Ethan",
-        "parent": "Sophia",
-        "email": "ethansalter3@gmail.com",
+    "X": {
+        "student": "X",
+        "parent": "X_parent",
+        "email": "X@gmail.com",
         "rate": "50"
     },
-    "Davin": {
-        "student": "Davin",
-        "parent": "Priscilla",
-        "email": "ethansalter3@gmail.com",
-        "rate": "50"
+    "Y": {
+        "student": "Y",
+        "parent": "Y_parent",
+        "email": "Y@gmail.com",
+        "rate": "55"
     },
-    "JT": {
-        "student": "JT",
-        "parent": "Shawna",
-        "email": "ethansalter3@gmail.com",
+    "Z": {
+        "student": "Z",
+        "parent": "Z_parent",
+        "email": "Z@gmail.com",
         "rate": "45"
-    },
-    "Rory": {
-        "student": "Rory",
-        "parent": "Susan",
-        "email": "ethansalter3@gmail.com",
-        "rate": "40"
-    },
-    "Marcus": {
-        "student": "Marcus",
-        "parent": "n/a",
-        "email": "ethansalter3@gmail.com",
-        "rate": "40"
-    },
-    "Charlie": {
-        "student": "Charlie",
-        "parent": "Kerry",
-        "email": "ethansalter3@gmail.com",
-        "rate": "40"
-    }
 }
