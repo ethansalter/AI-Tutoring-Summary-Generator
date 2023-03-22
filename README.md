@@ -1,6 +1,8 @@
 # Tutoring Summary Generator
 This program generates a tutoring summary for a student based on the input provided by the tutor. The program runs a GUI that has input boxes for the student’s name, the length of the session, their mastery of the content, and the tutor’s recommendations for the student. The program automatically generates a prompt from the responses and inputs the prompt into chat GPT to automatically generate a tutoring summary. This prompt can be manually edited in a text box within the GPT. It then automatically sends this summary to the specified email address on file once the user presses the "upload" button.
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/GUI_screenshot.png)
+
 ## Getting Started
 To get started with this program, you will need to have Python 3 installed on your computer. You can download Python 3 from the official website: https://www.python.org/downloads/
 
